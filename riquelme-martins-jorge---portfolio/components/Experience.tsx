@@ -9,7 +9,7 @@ export function Experience() {
       id: 1,
       role: 'Head de Desenvolvimento de Sistemas',
       company: 'TED IA',
-      period: '[Mês/Ano de início] – o momento',
+      period: 'Janeiro/2022 – o momento',
       icon: <Building2 size={20} />,
       projects: [
         {
@@ -43,7 +43,7 @@ export function Experience() {
       id: 2,
       role: 'Desenvolvedor Pleno',
       company: 'Instituto Iluses',
-      period: '[Mês/Ano de início] – [Mês/Ano de término]',
+      period: 'Janeiro/2021 – [Dezembro/2021',
       icon: <Code2 size={20} />,
       projects: [
         {
