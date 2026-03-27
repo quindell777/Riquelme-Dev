@@ -43,7 +43,7 @@ export function Experience() {
       id: 2,
       role: 'Desenvolvedor Pleno',
       company: 'Instituto Iluses',
-      period: 'Janeiro/2021 – [Dezembro/2021',
+      period: 'Janeiro/2021 – Dezembro/2021',
       icon: <Code2 size={20} />,
       projects: [
         {
